@@ -6,14 +6,14 @@ This Unity project creates a Windows Mixed reality Application running on Micros
 
 ## Prequisites
 
-- [Unity 2019.3.0f6](https://unity3d.com/get-unity/download/archive)
+- [Unity 2020.3.8f1](https://unity3d.com/get-unity/download/archive)
 - [NET 4.6 equivalent and C# 7.3](https://docs.unity3d.com/2019.3/Documentation/Manual/CSharpCompiler.html)
 
 The project was developed and tested on Windows 10. 
 
 ## Installation 
 
-Download the [Unity 2019.3.0f6](https://unity3d.com/get-unity/download/archive). 
+Download the [Unity 2020.3.8f1](https://unity3d.com/get-unity/download/archive). 
 If you have mutiple versions of Unity installed, [Unity Hub](https://docs.unity3d.com/Manual/GettingStartedInstallingHub.html) is suggested.
 
 Clone source code.
@@ -21,12 +21,17 @@ Clone source code.
 git clone https://github.com/Plan-T42/TwinXR-HoloCrane-Unity-Demo.git
 ```
 
-Open the proejct folder with Unity 2019.3.0f6.
+Open the proejct folder with Unity 2020.3.8f1.
 
-## Run the demo application
+## Run the demo application in Unity
 
 You are all set!
 
-Select the scene (either "DT_document.unity" or "NextMind.unity") from the [Project Window](https://docs.unity3d.com/Manual/UsingTheEditor.html).
+Select the scene ("Crane_DTdoc_QR-code.unity") from the [Project Window](https://docs.unity3d.com/Manual/UsingTheEditor.html).
 
 When you are located in the selected scene (you should find the scene name in the [Hierarchy window](https://docs.unity3d.com/Manual/UsingTheEditor.html), press play, and wait for the system to initialize. 
+
+## Deploy the demo application to Microsoft HoloLens 2
+
+Follow the Microsoft documentation page ["Build and deploy to the HoloLens"](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/unity/build-and-deploy-to-hololens)
+
