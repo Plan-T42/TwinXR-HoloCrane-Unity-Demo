@@ -9,7 +9,7 @@ This Unity project creates a Windows Mixed reality Application running on Micros
 - [Unity 2020.3.8f1](https://unity3d.com/get-unity/download/archive)
 - [NET 4.6 equivalent and C# 7.3](https://docs.unity3d.com/2019.3/Documentation/Manual/CSharpCompiler.html)
 
-The project was developed and tested on Windows 10 and [Microsoft HoloLens 2 (Trible XR10 Edition)](https://go.trimble.com/XR10-Construction-OrderForm.html). 
+The project was developed and tested on Windows 10 and [Microsoft HoloLens 2 (Trimble XR10 Edition)](https://go.trimble.com/XR10-Construction-OrderForm.html). 
 
 ## Installation 
 
