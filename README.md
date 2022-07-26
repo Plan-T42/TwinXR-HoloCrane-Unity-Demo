@@ -1,8 +1,8 @@
 # TwinXR: HoloCrane Unity Demo
 
-TwinXR is a method we developed to explore the synergies between Digital Twins (DT) and Extened Reality (XR), and their interoperability and interchangeabilty, by introducing an ontology-based approach in industrial Extended Reality (XR) applications. (Related publication is coming out, and we will add the link here.) 
+TwinXR is a method we developed to explore the synergies between Digital Twins (DT) and Extened Reality (XR), and their interoperability and interchangeabilty, by introducing an ontology-based approach in industrial Extended Reality (XR) applications. (Related publication is coming out soon, and we will add the link here.) 
 
-This Unity project creates a Windows Mixed reality Application running on Microsoft HoloLens 2 device for operating overhead cranes. The application accesses and utilizes the Twinbase and the DT documents defined there in the "[TwinXR: Twinbase for HoloCrane](https://github.com/Plan-T42/TwinXR-TwinBase-for-HoloCrane)" project. Together, they demostrate the use of the "TwinXR" method in industrial applications.
+This Unity project creates a TwinXR-compatible Windows Mixed reality Application running on Microsoft HoloLens 2 device for operating overhead cranes. The application accesses and utilizes the Twinbase and the DT documents defined there in the "[TwinXR: Twinbase for HoloCrane](https://github.com/Plan-T42/TwinXR-TwinBase-for-HoloCrane)" project. Together, they demostrate the use of the "TwinXR" method in industrial applications.
 
 ## Prequisites
 
